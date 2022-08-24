@@ -1,0 +1,15 @@
+.article {
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(104, 104, 104);
+}
+.article * {
+  padding: 4px 0;
+  display: block;
+}
+
+.article h3 {
+  font-size: 30px;
+}
+.article a {
+  color: #ffd369;
+}
